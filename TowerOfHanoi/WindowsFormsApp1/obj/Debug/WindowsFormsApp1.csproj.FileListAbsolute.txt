@@ -1,0 +1,10 @@
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TowerHanoi.exe.config
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TowerHanoi.exe
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TowerHanoi.pdb
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tower.resources
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TowerHanoi.Properties.Resources.resources
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TowerHanoi.exe
+D:\Radius\Period 2\PR\toerVanHanoi\TurmVanHanoi_DBS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TowerHanoi.pdb
